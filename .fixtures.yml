@@ -1,0 +1,10 @@
+fixtures:
+  symlinks:
+    consul: "#{source_dir}"
+  forge_modules:
+    vcsrepo: puppetlabs/vcsrepo
+    stdlib: puppetlabs/stdlib
+    golang: scottyc/golang
+    python: stankevich/python
+  repositories:
+    docker: https://github.com/garethr/garethr-docker.git
