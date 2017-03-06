@@ -1,0 +1,14 @@
+{
+  "name": "ziporah-consul",
+  "version": "0.1.0",
+  "author": "ziporah",
+  "summary": "This module runs consul in a Docker container",
+  "license": "Apache-2.0",
+  "source": "http://github.com/ziporah/ziporah-consul",
+  "project_page": "https://github.com/ziporah/ziporah-consul",
+  "issues_url": "https://github.com/ziporah/ziporah-consul/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
